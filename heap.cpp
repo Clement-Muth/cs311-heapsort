@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cstring>
 #include "heap.h"
 
 // @brief gets the maximum value in the heap

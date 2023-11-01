@@ -3,7 +3,6 @@
  *
  */
 #include "heap.h"
-#include <cstring>
 
 using namespace std;
 
