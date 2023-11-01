@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "heap.h"
 
 // @brief gets the maximum value in the heap
